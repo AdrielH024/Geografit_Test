@@ -1,7 +1,7 @@
 import './App.css';
 import React, { Component } from 'react';
-import Main from './views/main.js';
-import Indep from './views/principal/indexprincipal.js';
+import Main from './views/main.jsx';
+import Indep from './views/principal/indexprincipal.jsx';
 
 
 function App() {
