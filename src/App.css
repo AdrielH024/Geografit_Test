@@ -83,3 +83,9 @@ body{
   font-size: 30px;
 
 }
+
+
+.leaflet-container {
+  width: 80%;
+  height: 80vh;
+}
